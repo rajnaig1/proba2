@@ -1,3 +1,3 @@
 # proba2
 IEC tanfolyam Git alapok
-Automated Kanban
+Automated Kanban1
